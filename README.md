@@ -14,7 +14,7 @@ GraphQL web API.
 
 Planned features for this project can be viewed on the [LAGD 2.0 Trello
 Board](https://trello.com/b/FbUrOlR3/lagd-20). Cards for this project are
-labeled `backend`.
+labeled `api`.
 
 ## Contributing
 
