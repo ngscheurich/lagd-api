@@ -1,4 +1,4 @@
-# LAGD Website Backend
+# LAGD Website Core + Web API
 
 2018 was a great inaugural year for the [Louisiana Game Developers group
 (LAGD)](https://www.lagd.network/). We’ve hosted multiple meetups as well as
