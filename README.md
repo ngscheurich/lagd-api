@@ -39,12 +39,12 @@ ensure you have the proper Erlang/OTP and Elixir versions.
 ## Contributing
 
 Contributions are welcome and appreciated; just be sure to follow the [code of
-conduct](https://github.com/ngscheurich/lagd/blob/master/CODE_OF_CONDUCT.md).
+conduct](https://github.com/ngscheurich/lagd-api/blob/master/CODE_OF_CONDUCT.md).
 
 ## License
 
 This project is released under the [MIT
-license](https://github.com/ngscheurich/lagd/blob/master/LICENSE).
+license](https://github.com/ngscheurich/lagd-api/blob/master/LICENSE).
 
 ## About LAGD
 
