@@ -3,12 +3,11 @@
 2018 was a great inaugural year for the [Louisiana Game Developers group
 (LAGD)](https://www.lagd.network/). We’ve hosted multiple meetups as well as
 [Post-Pixel](https://www.post-pixel.com/), an interactive art showcase. Most
-importantly we’ve created an inclusive space dedicated to our mission: fostering
-and promoting the game development community in Louisiana. As we move into the
-new year, I hope to grow LAGD even more, and would like to expand the
-capabilities of our current website to help support that effort. This is part of
-that website, and includes the core logic of the application as well as a
-GraphQL web API.
+importantly we’ve created an inclusive space dedicated to our mission:
+fostering and promoting the game development community in Louisiana. I hope to
+grow LAGD even more, and would like to expand the capabilities of our current
+website to help support that effort. This is part of that website, and includes
+the core logic of the application as well as a GraphQL web API.
 
 ## Table of Contents
 
